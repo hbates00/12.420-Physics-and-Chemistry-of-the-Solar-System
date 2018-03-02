@@ -1,0 +1,37 @@
+1.	. (2011).
+2.	D. Catling, K. Zahnle, The Escape of Planetary Atmospheres. Scientific American,  (2009).
+3.	T. Currie, On the Semimajor Axis Distribution of Extrasolar Gas Giant
+Planets: Why Hot Jupiters Are Rare Around High-Mass Stars. The Astrophysical Journal Letters  694, L171-L176 
+ (2009).
+4.	D. Ehrenreich et al., Hubble sees Atmosphere Being Stripped From Neptune-Sized Exoplanet. Nature 522, 459  –  461 (2015).
+5.	N. V. Erkaev et al., Roche Lobe Effects on the Atmospheric Loss from "Hot Jupiters". Astronomy and Astrophysics 472, 329 - 334 (2007).
+6.	J. Fortney, Looking Into the Giant Planets. Science 305, 1414-1415   (2004).
+7.	T. Guillot, D. Gautier, W. B. Hubbard, New Constraints on the Composition of Jupiter from Galileo Measurements and Interior Models
+ Icarus 30, 534-539 (1997).
+8.	M. G. Hidas et al., The University of New South Wales Extrasolar Planet Search: Methods and First Results From a Field Centred on NGC 6633. Monthly Notices of the Royal Astronomical Society 360, 703-717 (2005).
+9.	J. D. Kendall, H. J. Melosh, Differentiated Planetesimal Impacts Into a Terrestrial Magma Ocean: Fate of the Iron Core. Earth and Planetary Science Letters 448, 24-33 (2016).
+10.	A. Lecavelier des Etangs, A Diagram to Determine the Evaporation Status of Extrasolar Planets
+ Astronomy and Astrophysics 461, 1185 - 1193 (2007).
+11.	A. Lecavelier des Etangs, A. Vidal-Madiar, J. C. McConnell, G. H ébrard, Atmospheric Escape from Hot Jupiters. Astronomy and Astrophysics 418, L1-L4 (2004).
+12.	J. Lissauer et al., All Six Planets Known to Orbit Kepler-11 Have Low Density
+ The Astrophysical Journal 770,  (2013).
+13.	K. L. Luhman, T. L. Esplin, N. P. Loutrel, A Census of Young Stars and Brown Dwarfs in IC 348 and NGC 1333. The Astrophysical Journal 827,  (2016).
+14.	A. Mocquet, O. Grasset, C. Sotin, Very High-Density Planets: A Possible Remnant of Gas Giants. The Royal Society 372,  (2014).
+15.	C. Mordasini, Y. Alibert, W. Benz, D. Naef, Giant Planet Formation by Core Accretion. Extreme Solar Systems, ASP Conference Series 398,  (2008).
+16.	M. Podolak, A. Weizman, M. Marley, Comparative Models of Uranus and Neptune. Planetary and Space Science 43, 1517-1522 (1995).
+17.	W. K. M. Rice, P. J. Armitage, On the Formation Timescale and Core Masses of Gas Giant Planets  The Astrophysical Journal 598, L55-L58 (2003).
+18.	K. Righter, D. P. O'Brein, Terrestrial Planet Formation. PNAS 108, 19165-19170 (2011).
+19.	D. Russel, Geophysical Classification of Planets, Dwarf Planets, and Moons. Eprint ArXiv:1308.0616,  (2013).
+20.	D. Saumon, T. Guillot, Shock Compression of Deuterium and the Interiors of Jupiter and Saturn. The Astrophysical Journal 609, 1170-1180      (2004).
+21.	J. Schneider, C. Dedieu, P. Sidaner, R. Savalle, I. Zolotukhin, Defining and Cataloging Exoplanets: the exoplanet.eu database  Astronomy and Astrophysics 532,  (2011).
+22.	S. Seager, M. Kuchner, C. Heir-Majumder, B. Militzer, MASS-RADIUS RELATIONSHIPS FOR SOLID EXOPLANETS. The Astrophysical Journal 669,  (2007).
+23.	D. J. Stevens, B. S. Gaudi, A Posteriori Transit Probabilities. Publications of the Astronomical Society of Pacific 125,  (2013).
+24.	D. C. Swift et al., Mass-Radius Relationships for Exoplanets. The Astrophysical Journal 744,  (2012).
+25.	F. Tian, J. F. Kasting, H.-L. Liu, R. G. Roble, Hydrodynamic Planetary Thermosphere Model: 1. Response of the Earth's Thermosphere to Extreme Solar EUV Conditions and the Significance of Adiabatic Cooling
+ Journal of Geophysical Research 113,  (2008).
+26.	F. Tian, O. Toon, A. Pavlov, H. D. Sterck, Transonic Hydrodynamic Escape of Hydrogen from Extrasolar Planetary Atmospheres. The Astrophysical Journal 621,  (2004).
+27.	D. Valencia, M. Ikoma, T. Guillot, N. Nettelmann, Composition and Fate of Short-Period Super Earths - The Case of CoRot -7 b. Astronomy and Astrophysics 516,  (2010).
+28.	R. Yelle, H. Lammer, W.-H. Ip, Aeronomy of Extra-Solar Giant Planets
+ Space Science Reviews 139, 437–451 (2008).
+29.	L. Zeng, D. Sasselov, S. Jacobsen, Mass-Radius Relation for Rocky Planets Based on PREM. The Astrophysical Journal 819,  (2016).
+30.	L. Zeng, S. Jacobsen, A Simple Analytical Model for Rocky Planet Interiors. The Astrophysical Journal 837,  (2017).
